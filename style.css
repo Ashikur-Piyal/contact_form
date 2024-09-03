@@ -1,3 +1,4 @@
+
 .full_page{
     display: flex;
     margin-left: 10vh;
@@ -9,6 +10,7 @@
     background-size: cover; 
     background-position: center; 
     column-gap: 15px;
+    
 }
 
 .left_section{
